@@ -1,0 +1,3 @@
+Wed Jan 18 Weather Forecast:
+Precipitation: 77%
+39H-L32 Degrees
