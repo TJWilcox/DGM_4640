@@ -1,0 +1,3 @@
+Mon Jan 23 Weather Forecast:
+Precipitation: 77%
+70H-L54 Degrees
