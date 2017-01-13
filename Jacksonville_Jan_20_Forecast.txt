@@ -1,0 +1,3 @@
+Fri Jan 20 Weather Forecast:
+Precipitation: 74%
+75H-L58 Degrees
