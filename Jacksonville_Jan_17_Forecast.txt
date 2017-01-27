@@ -1,3 +1,0 @@
-Tue Jan 17 Weather Forecast:
-Precipitation: 79%
-74H-L60 Degrees
